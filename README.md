@@ -9,13 +9,15 @@
 
  <h2>👨‍💻 Software Development Projects:</h2>
 
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
+  - [Guessing Game](https://github.com/trebman95/guessing-game-project)
+  - [Building HTML Form](https://github.com/trebman95/building-html-forms)
+  - [VSCode Debugger](https://github.com/trebman95/VSCODE-Debug)
+  - [DRY Practice)](https://github.com/trebman95/DRY-practice)
+  - [Hello world!](https://github.com/trebman95/hello-html)
+  - [Rock, Paper, Scissors](https://github.com/trebman95/Rock-Paper-Scissors)
 
+
+and more!
 
 <!--
 **trebman95/trebman95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
