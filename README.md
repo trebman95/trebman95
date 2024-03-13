@@ -11,7 +11,7 @@
   - [Guessing Game](https://github.com/trebman95/guessing-game-project)
   - [Building HTML Form](https://github.com/trebman95/building-html-forms)
   - [VSCode Debugger](https://github.com/trebman95/VSCODE-Debug)
-  - [DRY Practice)](https://github.com/trebman95/DRY-practice)
+  - [DRY Practice](https://github.com/trebman95/DRY-practice)
   - [Hello world!](https://github.com/trebman95/hello-html)
   - [Rock, Paper, Scissors](https://github.com/trebman95/Rock-Paper-Scissors)
 
