@@ -3,7 +3,7 @@
 <h2>👨‍💻 Help Desk Project:</h2>
 
   - [Active Directory Home Lab](https://github.com/trebman95/ActiveDirectoryLab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
+  - [PowerShell Practice](https://github.com/trebman95/PowerShellPractice)
 
 
  <h2>👨‍💻 Software Development Projects:</h2>
