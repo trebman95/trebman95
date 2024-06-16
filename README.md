@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 Software QA Engineering Portfolio:</h2>
 
-  - [Active Directory Home Lab](https://github.com/trebman95/ActiveDirectoryLab)
-  - [PowerShell Practice](https://github.com/trebman95/PowerShellPractice)
+  - [Sample 1](https://github.com/trebman95/ActiveDirectoryLab)
+  - [Sample 2](https://github.com/trebman95/PowerShellPractice)
 
     
 <h2>👨‍💻 Help Desk Project:</h2>
