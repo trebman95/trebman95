@@ -6,7 +6,7 @@
   - [Sample 2](https://github.com/trebman95/PowerShellPractice)
 
     
-<h2>👨‍💻 Help Desk Project:</h2>
+<h2>👨‍💻 Help Desk Projects:</h2>
 
   - [Active Directory Home Lab](https://github.com/trebman95/ActiveDirectoryLab)
   - [PowerShell Practice](https://github.com/trebman95/PowerShellPractice)
@@ -18,8 +18,9 @@
   - [VSCode Debugger](https://github.com/trebman95/VSCODE-Debug)
   - [DRY Practice](https://github.com/trebman95/DRY-practice)
   - [Building HTML Form](https://github.com/trebman95/building-html-forms)
-  - [Guessing Game](https://github.com/trebman95/guessing-game-project)
   - [Rock, Paper, Scissors Game](https://github.com/trebman95/Rock-Paper-Scissors)
+
+And many more...
 
 Thank you!
 
