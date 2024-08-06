@@ -2,8 +2,7 @@
 
 <h2>👨‍💻 Software QA Engineering Portfolio:</h2>
 
-  - [Sample 1](https://github.com/trebman95/ActiveDirectoryLab)
-  - [Sample 2](https://github.com/trebman95/PowerShellPractice)
+  - [Reelly Internship Project](https://github.com/trebman95/ActiveDirectoryLab)
 
     
 <h2>👨‍💻 Help Desk Projects:</h2>
