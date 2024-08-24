@@ -1,4 +1,4 @@
-<h1>Hi, I'm Tre'! <br/><a href="https://github.com/trebman95">Inspiring QA Professional</a> </h1>
+<h1>Hi, I'm Tre'! <br/><a href="https://github.com/trebman95">Inspiring Software QA Professional</a> </h1>
 
 <h2>👨‍💻 Software QA Engineering Portfolio:</h2>
 
