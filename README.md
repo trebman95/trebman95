@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 Software QA Engineering Portfolio:</h2>
 
-  - [Careerist: Reelly Internship Project](https://github.com/trebman95/ActiveDirectoryLab)
-  - [Careerist: Python Practice Project](https://github.com/trebman95/Intro-to-Python)
+  - [Reelly Internship Project](https://github.com/trebman95/ActiveDirectoryLab)
+  - [Python Practice Project](https://github.com/trebman95/Intro-to-Python)
 
     
 <h2>👨‍💻 Help Desk Projects:</h2>
