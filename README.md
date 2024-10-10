@@ -12,8 +12,9 @@
   - [VSCode Debugger (JavaScript)](https://github.com/trebman95/VSCODE-Debug)
   - [DRY Practice (JavaScript)](https://github.com/trebman95/DRY-practice)
   - [Building HTML Form](https://github.com/trebman95/building-html-forms)
-  - [Rock, Paper, Scissors Game (JavaScript)](https://github.com/trebman95/Rock-Paper-Scissors)
+  - [Page Layout(CSS)](https://github.com/trebman95/building-html-forms/blob/main/style.css)
   - [Employees and Managers (JavaScript)](https://github.com/trebman95/employee-manager/tree/part-time)
+  - [Rock, Paper, Scissors Game (JavaScript)](https://github.com/trebman95/Rock-Paper-Scissors)
   - [Many more...](https://github.com/trebman95?tab=repositories)
     
 <h2>👨‍💻 Help Desk Projects:</h2>
