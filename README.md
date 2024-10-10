@@ -4,22 +4,21 @@
 
   - [Reelly Internship Project](https://github.com/trebman95/ReellyInternship)
   - [Python Practice](https://github.com/trebman95/Intro-to-Python)
-  - [Postman: API Automation](https://github.com/trebman95/Postman-API-Automation)
-
-    
-<h2>👨‍💻 Help Desk Projects:</h2>
-
-  - [Active Directory Home Lab](https://github.com/trebman95/ActiveDirectoryLab)
-  - [PowerShell Practice](https://github.com/trebman95/PowerShellPractice)
+  - [Postman: API Automation (JavaScript)](https://github.com/trebman95/Postman-API-Automation)
 
 
  <h2>👨‍💻 Software Development Projects:</h2>
   
-  - [Test-Driven Development Practice](https://github.com/trebman95/TDD-Style-Project/tree/part-time)
-  - [VSCode Debugger](https://github.com/trebman95/VSCODE-Debug)
-  - [DRY Practice](https://github.com/trebman95/DRY-practice)
+  - [Test-Driven Development Practice (JavaScript)](https://github.com/trebman95/TDD-Style-Project/tree/part-time)
+  - [VSCode Debugger (JavaScript)](https://github.com/trebman95/VSCODE-Debug)
+  - [DRY Practice (JavaScript)](https://github.com/trebman95/DRY-practice)
   - [Building HTML Form](https://github.com/trebman95/building-html-forms)
-  - [Rock, Paper, Scissors Game](https://github.com/trebman95/Rock-Paper-Scissors)
+  - [Rock, Paper, Scissors Game (JavaScript)](https://github.com/trebman95/Rock-Paper-Scissors)
+
+<h2>👨‍💻 Help Desk Projects:</h2>
+
+  - [Active Directory Home Lab](https://github.com/trebman95/ActiveDirectoryLab)
+  - [PowerShell Practice](https://github.com/trebman95/PowerShellPractice)
 
 And many more...
 
