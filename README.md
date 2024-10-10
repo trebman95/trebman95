@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Software QA Engineering Portfolio:</h2>
 
-  - [Reelly Internship Project](https://github.com/trebman95/ActiveDirectoryLab)
+  - [Reelly Internship Project](https://github.com/trebman95/ReellyInternship)
   - [Python Practice](https://github.com/trebman95/Intro-to-Python)
   - [Postman: API Automation](https://github.com/trebman95/Postman-API-Automation)
 
