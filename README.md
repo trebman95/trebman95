@@ -4,7 +4,7 @@
 
   - [Reelly Internship Project](https://github.com/trebman95/ActiveDirectoryLab)
   - [Python Practice](https://github.com/trebman95/Intro-to-Python)
-  - [Postman: API Automation](https://github.com/trebman95/ActiveDirectoryLab)
+  - [Postman: API Automation](https://github.com/trebman95/Postman-API-Automation)
 
     
 <h2>👨‍💻 Help Desk Projects:</h2>
