@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Software QA Automation Portfolio:</h2>
 
-  - [Reelly Internship Project](https://github.com/trebman95/ReellyInternship)
+  - [Reelly.io Internship Project](https://github.com/trebman95/ReellyInternship)
   - [Python Practice](https://github.com/trebman95/Intro-to-Python)
   - [Postman: API Automation (JavaScript)](https://github.com/trebman95/Postman-API-Automation)
 
