@@ -1,6 +1,6 @@
 <h1>Hi, I'm Tre'! <br/><a href="https://github.com/trebman95">Inspiring Software QA Automation Professional</a> </h1>
 
-<h2>👨‍💻 Manual & Automation Testing Portfolio:</h2>
+<h2>👨‍💻 Manual & Automation Testing Projects:</h2>
 
   - [Reelly.io Internship Project](https://github.com/trebman95/ReellyInternship)
   - [Python Practice](https://github.com/trebman95/Intro-to-Python)
