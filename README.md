@@ -6,7 +6,6 @@
   - [Python Practice](https://github.com/trebman95/Intro-to-Python)
   - [Postman: API Automation (JavaScript)](https://github.com/trebman95/Postman-API-Automation)
 
-
  <h2>👨‍💻 Software Development Projects:</h2>
   
   - [Test-Driven Development Practice (JavaScript)](https://github.com/trebman95/TDD-Style-Project/tree/part-time)
@@ -14,13 +13,13 @@
   - [DRY Practice (JavaScript)](https://github.com/trebman95/DRY-practice)
   - [Building HTML Form](https://github.com/trebman95/building-html-forms)
   - [Rock, Paper, Scissors Game (JavaScript)](https://github.com/trebman95/Rock-Paper-Scissors)
-
+  - [Employees and Managers (JavaScript)](https://github.com/trebman95/employee-manager/tree/part-time)
+  - [Many more...](https://github.com/trebman95?tab=repositories)
+    
 <h2>👨‍💻 Help Desk Projects:</h2>
 
   - [Active Directory Home Lab](https://github.com/trebman95/ActiveDirectoryLab)
   - [PowerShell Practice](https://github.com/trebman95/PowerShellPractice)
-
-And many more...
 
 Thank you!
 
