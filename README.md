@@ -5,6 +5,7 @@
   - [Reelly.io Internship Project](https://github.com/trebman95/ReellyInternship)
   - [Postman: API Automation (JavaScript)](https://github.com/trebman95/Postman-API-Automation)
   - [Write Your First Automation Test: Selenium (Python)](https://github.com/trebman95/gettop-automation)
+  - [Java Selenium Automation](https://github.com/trebman95/Java_Selenium_Automation)
 
  <h2>👨‍💻 Software Development Projects:</h2>
   
