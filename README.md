@@ -5,7 +5,7 @@
   - [Reelly.io Internship Project](https://github.com/trebman95/ReellyInternship)
   - [Postman: API Automation (JavaScript)](https://github.com/trebman95/Postman-API-Automation)
   - [GetTop: Selenium Automation (Python)](https://github.com/trebman95/gettop-automation)
-  - [Java Selenium Automation](https://github.com/trebman95/Java_Selenium_Automation)
+  - [Blackplanet: Selenium Automation (Java)](https://github.com/trebman95/Java_Selenium_Automation)
 
  <h2>👨‍💻 Software Development Projects:</h2>
   
