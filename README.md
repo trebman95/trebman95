@@ -9,8 +9,8 @@
 
  <h2>👨‍💻 Software Development Projects:</h2>
   
-  - [Test-Driven Development Practice (JavaScript)](https://github.com/trebman95/TDD-Style-Project/tree/part-time)
-  - [Python Practice](https://github.com/trebman95/Intro-to-Python)
+  - [Test-Driven Development (JavaScript)](https://github.com/trebman95/TDD-Style-Project/tree/part-time)
+  - [Python Data Structures & Algorithims](https://github.com/trebman95/Intro-to-Python)
   - [VSCode Debugger (JavaScript)](https://github.com/trebman95/VSCODE-Debug)
   - [DRY Practice (JavaScript)](https://github.com/trebman95/DRY-practice)
   - [Building HTML Form](https://github.com/trebman95/building-html-forms)
