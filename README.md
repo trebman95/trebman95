@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Manual & Automation Testing Projects:</h2>
 
-  - [Reelly.io Internship Project](https://github.com/trebman95/ReellyInternship)
+  - [Reelly.io Internship (Manual QA)](https://github.com/trebman95/ReellyInternship)
   - [Postman: API Automation (JavaScript)](https://github.com/trebman95/Postman-API-Automation)
   - [GetTop: Selenium Automation (Python)](https://github.com/trebman95/gettop-automation)
   - [Blackplanet: Selenium Automation (Java)](https://github.com/trebman95/Java_Selenium_Automation)
