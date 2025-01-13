@@ -18,11 +18,6 @@
   - [Employees and Managers (JavaScript)](https://github.com/trebman95/employee-manager/tree/part-time)
   - [Rock, Paper, Scissors Game (JavaScript)](https://github.com/trebman95/Rock-Paper-Scissors)
   - [Many more...](https://github.com/trebman95?tab=repositories)
-    
-<h2>👨‍💻 Help Desk Projects:</h2>
-
-  - [Active Directory Home Lab](https://github.com/trebman95/ActiveDirectoryLab)
-  - [PowerShell Practice](https://github.com/trebman95/PowerShellPractice)
 
 Thank you!
 
