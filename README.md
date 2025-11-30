@@ -1,4 +1,4 @@
-<h1>Hi, I'm Tre'! <br/><a href="https://github.com/trebman95">Aspiring IT Professional</a> </h1>
+<h1>Hi, I'm Tre'! <br/><a href="https://github.com/trebman95">Software QA Analyst</a> </h1>
 
 <h2>👨‍💻 Manual & Automation Testing Projects:</h2>
 
