@@ -6,6 +6,7 @@
   - [Postman: API Automation (JavaScript)](https://github.com/trebman95/Postman-API-Automation)
   - [GetTop: Selenium Automation (Python)](https://github.com/trebman95/gettop-automation)
   - [BlackPlanet: Selenium Automation (Java)](https://github.com/trebman95/Java_Selenium_Automation)
+  - [Login, Exceptions, & Tables: Playwright Automation (JavaScript)](https://github.com/trebman95/Playwright-JS)
 
  <h2>👨‍💻 Software Development Projects:</h2>
   
