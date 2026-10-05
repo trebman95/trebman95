@@ -7,6 +7,7 @@
   - [GetTop: Selenium Automation (Python)](https://github.com/trebman95/gettop-automation)
   - [BlackPlanet: Selenium Automation (Java)](https://github.com/trebman95/Java_Selenium_Automation)
   - [Login, Exceptions, & Tables: Playwright Automation (JavaScript)](https://github.com/trebman95/Playwright-JS)
+  - [SauceDemo BDD Test Playwright Automation Framework (TypeScript)](https://github.com/trebman95/Playwright-TS-Cucumber)
 
  <h2>👨‍💻 Software Development Projects:</h2>
   
